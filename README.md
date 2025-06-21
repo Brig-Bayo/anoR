@@ -2,7 +2,7 @@
 
 # anoR: Comprehensive ANOVA Analysis with Automated Test Selection
 
-[![R-CMD-check](https://github.com/brightboamah/anoR/workflows/R-CMD-check/badge.svg)](https://github.com/brightboamah/anoR/actions)
+[![R-CMD-check](https://github.com/brightboamah/anoR/workflows/R-CMD-check/badge.svg)](https://github.com/Brig-Bayo/anoR)
 [![CRAN status](https://www.r-pkg.org/badges/version/anoR)](https://CRAN.R-project.org/package=anoR)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
