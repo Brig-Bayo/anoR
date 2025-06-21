@@ -29,7 +29,7 @@
 install.packages("devtools")
 
 # Install anoR from GitHub
-devtools::install_github("brightboamah/anoR")
+devtools::install_github("https://github.com/Brig-Bayo/anoR")
 ```
 
 ### Dependencies
