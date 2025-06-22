@@ -359,7 +359,7 @@ This package is licensed under the GPL-3 License. See [LICENSE](LICENSE) for det
 ## Author
 
 **Bright Boamah**
-- Email: briteboafo@icloud.com
+- Email: brigbayo@icloud.com
 - GitHub: (https://github.com/Brig-Bayo/anoR)
 
 ## Acknowledgments
